@@ -42,3 +42,4 @@ With this project, my goal was to add/correct any elements that were non-semanti
 ## Deployed Application
 
 The deployed application can be found at this link:
+https://jsheen98.github.io/challenge-1-urban-octo-telegram/
