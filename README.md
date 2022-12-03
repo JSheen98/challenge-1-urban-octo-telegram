@@ -46,7 +46,7 @@ N/A
 ## Deployed Application
 
 The deployed application can be found at this link:
-https://jsheen98.github.io/challenge-1-urban-octo-telegram/
+https://jsheen98.github.io/coding-bootcamp-challenge-1/
 
 
 ## License
