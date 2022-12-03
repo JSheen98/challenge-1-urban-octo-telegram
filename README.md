@@ -1,5 +1,10 @@
 # Challenge 1: Code Refactor
 
+
+## Description
+
+With this project, my goal was to add/correct any elements that were non-semantic in the given starter code, and in general, make the code more accessible. Adding semantic elements helps fellow developers understand better what is going on with the code, and making the code more accessible (such as adding image descriptions) helps individuals with disability. This code refactor should also help improve search engine optimization, meaning that anyone who would search google, bing, or any other similar search engines, should have an easier time finding this website. Through this I learned the importance of knowing different element tags, and how changing certain tags can mess with css elements, so it's good to go through the code slowly and thorougly when refactoring.
+
 ## User Story
 
 * AS A marketing agency
@@ -7,6 +12,7 @@
 * I WANT a codebase that follows accessibility standards
 
 * SO THAT our own site is optimized for search engines
+
 
 ## Acceptance Criteria
 
@@ -32,14 +38,18 @@
 * THEN I find a concise, descriptive title
 
 
-## Description
+## Installation
 
-With this project, my goal was to add/correct any elements that were non-semantic in the given starter code, and in general, make the code more accessible. Adding semantic elements helps fellow developers understand better what is going on with the code, and making the code more accessible (such as adding image descriptions) helps individuals with disability. This code refactor should also help improve search engine optimization, meaning that anyone who would search google, bing, or any other similar search engines, should have an easier time finding this website. Through this I learned the importance of knowing different element tags, and how changing certain tags can mess with css elements, so it's good to go through the code slowly and thorougly when refactoring.
-
-
+N/A
 
 
 ## Deployed Application
 
 The deployed application can be found at this link:
 https://jsheen98.github.io/challenge-1-urban-octo-telegram/
+
+
+## License
+
+Please refer to the LICENSE in the repo
+
