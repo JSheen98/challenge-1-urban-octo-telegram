@@ -35,6 +35,7 @@ With this project, my goal was to add/correct any elements that were non-semanti
 * THEN they fall in sequential order
 
 * WHEN I view the title element
+
 * THEN I find a concise, descriptive title
 
 
