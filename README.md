@@ -48,6 +48,12 @@ N/A
 The deployed application can be found at this link:
 https://jsheen98.github.io/coding-bootcamp-challenge-1/
 
+## Assets
+
+The following image demonstratres the website's appearance:
+
+![Horiseon Website Image](./Images/horiseon-website.png)
+
 
 ## License
 
