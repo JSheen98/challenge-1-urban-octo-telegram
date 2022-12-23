@@ -47,7 +47,7 @@ N/A
 ## Deployed Application
 
 The deployed application can be found at this link:
-https://jsheen98.github.io/coding-bootcamp-challenge-1/
+https://jsheen98.github.io/coding-bootcamp-challenge-accessibility-refactor/
 
 ## Assets
 
